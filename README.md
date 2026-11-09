@@ -13,7 +13,7 @@ Using `scipy.stats.binned_statistic_2d`, we bin the X and Y coordinates of all n
 
 The resulting CHM provides a continuous surface of canopy heights, ready for allometric biomass calculation.
 
-![Canopy Height Model](chm.png)
+![Canopy Height Model](images/chm.png)
 
 # Step 2: CHM Visualization
 
@@ -49,4 +49,4 @@ The biomass map reveals:
 - High biomass areas (>400 tonnes/ha) concentrated in dense canopy zones
 - Lower biomass areas corresponding to canopy gaps 
 
-![Biomass Map](biomass_map.png)
+![Biomass Map](images/biomass_map.png)
